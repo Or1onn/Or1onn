@@ -16,7 +16,6 @@ class Person
   private:
   std::string name = "Orhan";
   std::string username = "Or1onn";
-  std::string country = 
   
   std::string languages[] = { C, C++, C#, Python };
   std::string design[] = { XAML, HTML, CSS};
