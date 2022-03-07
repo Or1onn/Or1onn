@@ -6,8 +6,8 @@
     </linearGradient>
   </defs>
 
-<h1 align="center">Hi there, I'm Orhan</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"  fill="url(#grad)"/></h1>
+<h1 align="center" fill="url(#grad)">Hi there, I'm Orhan</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 </svg>
 
