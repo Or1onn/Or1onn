@@ -10,10 +10,14 @@
 #include <string>
 #include <vector>
 
+enum class HOBBIES { CODE, CODE, CODE };
+
 class Person
 {
   private:
   std::string name = "Orhan";
+  std::string username = "Or1onn";
+  
   std::string code[] = { C, C++, C#, Python };
   std::string design[] = { XAML, HTML, CSS};
   
