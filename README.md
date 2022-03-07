@@ -3,19 +3,19 @@
 
 ### <img align='right' src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"> 
 
+### About me:
+
 ```c++
 #include <iostream>
 #include <string>
 #include <vector>
 
-using namespace std;
-
 class Person
 {
   private:
-  string name = "Orhan";
-  string code[] = { C, C++, C#, Python };
-  string design[] = { XAML, HTML, CSS};
+  std::string name = "Orhan";
+  std::string code[] = { C, C++, C#, Python };
+  std::string design[] = { XAML, HTML, CSS};
   
   int age = "17";
 };
