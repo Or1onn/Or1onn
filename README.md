@@ -10,6 +10,8 @@
 #include <string>
 #include <vector>
 
+using namespace std;
+
 enum class HOBBIES { CODE, CODE, CODE };
 
 class Person
