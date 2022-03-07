@@ -1,8 +1,12 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Or1onn" target="_blank">Orhan</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)&nbsp;&nbsp;&nbsp;![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;&nbsp;![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;&nbsp;
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=or1onn&show_icons=true&locale=en&layout=compact" alt="or1onn" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=or1onn&" alt="or1onn" /></p>
