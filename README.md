@@ -7,7 +7,8 @@
   </defs>
 
 <h1 align="center" fill="url(#grad)">Hi there, I'm Orhan</a> 
+  </svg>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-</svg>
+
 
