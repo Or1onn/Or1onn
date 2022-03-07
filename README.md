@@ -3,7 +3,7 @@
 
 ### <img align='right' src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"> 
 
-```c#
+```javascript
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
