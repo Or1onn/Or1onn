@@ -1,17 +1,13 @@
-<h1 align="center">Hi there, I'm Orhan</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-body {
-  display: grid;
-  place-items: center;
-  height: 100vh;
-  background: #000;
-}
+<svg width="500" height="100">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color: #7f00ff; stop-opacity: 1" />
+      <stop offset="100%" style="stop-color: #e100ff; stop-opacity: 1" />
+    </linearGradient>
+  </defs>
 
-h1 {
-  font-family: Roboto, Arial, sans-serif;
-  font-size: 10vmax;
-  background-color: #2AA5A0;
-  background-image: linear-gradient(90deg, #E3535D, #2AA5A0);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
- }
+<h1 align="center">Hi there, I'm Orhan</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"  fill="url(#grad)"/></h1>
+
+</svg>
+
