@@ -3,18 +3,25 @@
 
 ### <img align='right' src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"> 
 
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+```c++
+#include <iostream>
+#include <string>
+#include <vector>
+
+using namespace std;
+
+class Person
+{
+  private:
+  string name;
+  int age;
+  public:
+  Person(string n, int a);
+  string get_name()const;
+  int get_age()const;
+  void increment_age();
+  void print()const;
+};
 }
 ```
 <h2 align="center">⚜Technologies⚜</strong></h2>
