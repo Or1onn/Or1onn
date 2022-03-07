@@ -10,14 +10,12 @@
 #include <string>
 #include <vector>
 
-using namespace std;
-
 enum class HOBBIES { CODE, CODE, CODE };
 
 class Person
 {
   private:
-  string name = "Orhan";
+  std::string name = "Orhan";
   std::string username = "Or1onn";
   
   std::string code[] = { C, C++, C#, Python };
@@ -26,6 +24,7 @@ class Person
   int age = "17";
 };
 ```
+
 <h2 align="center">⚜Technologies⚜</strong></h2>
 
 
