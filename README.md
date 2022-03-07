@@ -9,7 +9,7 @@
 #include <string>
 #include <vector>
 
-enum class HOBBIES { CODE, CODE, CODE };
+enum class MEANING_OF_LIFE { CODE, CODE, CODE };
 
 class Person
 {
