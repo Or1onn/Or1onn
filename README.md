@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Or1onn" target="_blank">Orhan</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-### <img src="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh.gif" width="100"> 
+### <img src="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh" width="100"> 
 ### пвапвапа
 
 <h2 align="center">⚜Technologies⚜</strong></h2>
