@@ -24,7 +24,6 @@ class Person
   int age = "17";
 };
 ```
-<img align='right' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)"> 
 <h2 align="center">⚜Technologies⚜</strong></h2>
 
 
