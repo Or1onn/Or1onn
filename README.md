@@ -13,16 +13,12 @@ using namespace std;
 class Person
 {
   private:
-  string name;
-  int age;
-  public:
-  Person(string n, int a);
-  string get_name()const;
-  int get_age()const;
-  void increment_age();
-  void print()const;
+  string name = "Orhan";
+  string code[] = { C, C++, C#, Python };
+  string design[] = { XAML, HTML, CSS};
+  
+  int age = "17";
 };
-}
 ```
 <h2 align="center">⚜Technologies⚜</strong></h2>
 
