@@ -1,2 +1,17 @@
 <h1 align="center">Hi there, I'm Orhan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+body {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background: #000;
+}
+
+h1 {
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 10vmax;
+  background-color: #2AA5A0;
+  background-image: linear-gradient(90deg, #E3535D, #2AA5A0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+ }
