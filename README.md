@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Or1onn" target="_blank">Orhan</a>
+<h1 align="center">Hi there, I'm <a href="https://github.com/Or1onn" target="_blank">Orhan AZ</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <img align='right' src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="396"> 
 
@@ -16,6 +16,7 @@ class Person
   private:
   std::string name = "Orhan";
   std::string username = "Or1onn";
+  std::string country = 
   
   std::string languages[] = { C, C++, C#, Python };
   std::string design[] = { XAML, HTML, CSS};
