@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Or1onn" target="_blank">Orhan</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<body>
+<body font-size="25">
   Что-то слатвлдовадваподпвдпо
   пваповажплвплв
   впвапвапа
