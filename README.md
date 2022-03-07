@@ -3,6 +3,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
+<img align='right' src="GitHub Streak"> 
 <img align='right' src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"> 
 
 ###  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  About me:
