@@ -18,7 +18,7 @@ class Person
   std::string name = "Orhan";
   std::string username = "Or1onn";
   
-  std::string code[] = { C, C++, C#, Python };
+  std::string languages[] = { C, C++, C#, Python };
   std::string design[] = { XAML, HTML, CSS};
   
   int age = "17";
