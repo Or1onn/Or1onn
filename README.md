@@ -13,14 +13,14 @@ enum class MEANING_OF_LIFE { CODE };
 
 class Person
 {
-  private:
-  std::string name = "Orhan";
-  std::string username = "Or1onn";
-  
-  std::string languages[] = { C, C++, C#, Python };
-  std::string design[] = { XAML, HTML, CSS};
-  
-  int age = "17";
+public:
+	std::string name = "Orhan";
+	std::string username = "Or1onn";
+
+	std::vector<std::string> languages = {"C", "C++", "C#", "Python"};
+	std::vector<std::string> design = { "XAML", "HTML", "CSS" };
+
+	int age = 17;
 };
 ```
 <h2 align="center"><strong>⚜Technologies⚜</strong></h2>
