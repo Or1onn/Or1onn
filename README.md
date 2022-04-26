@@ -4,7 +4,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
-```c++
+```C++
 #include <iostream>
 #include <string>
 #include <vector>
@@ -14,7 +14,7 @@ enum class MEANING_OF_LIFE { CODE };
 class Person
 {
 public:
- 	string name = "Orhan";
+ 	std::string name = "Orhan";
 	std::string username = "Or1onn";
 
 	std::vector<std::string> languages = {"C", "C++", "C#", "Python"};
