@@ -14,7 +14,7 @@ enum class MEANING_OF_LIFE { CODE };
 class Person
 {
 public:
-	std::string name = "Orhan";
+ 	string name = "Orhan";
 	std::string username = "Or1onn";
 
 	std::vector<std::string> languages = {"C", "C++", "C#", "Python"};
