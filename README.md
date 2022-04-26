@@ -4,17 +4,19 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
-```python
+```c++
 #include <iostream>
 #include <string>
 #include <vector>
 
 enum class MEANING_OF_LIFE { CODE };
 
+using namespace std
+
 class Person
 {
 public:
- 	std::string name = "Orhan";
+ 	string name = "Orhan";
 	std::string username = "Or1onn";
 
 	std::vector<std::string> languages = {"C", "C++", "C#", "Python"};
