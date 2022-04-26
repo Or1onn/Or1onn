@@ -11,12 +11,10 @@
 
 enum class MEANING_OF_LIFE { CODE };
 
-using namespace std
-
 class Person
 {
 public:
- 	string name = "Orhan";
+ 	std::string name = "Orhan";
 	std::string username = "Or1onn";
 
 	std::vector<std::string> languages = {"C", "C++", "C#", "Python"};
