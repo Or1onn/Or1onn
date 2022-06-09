@@ -30,4 +30,4 @@ public:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Or1onn&theme=onedark_duo)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Or1onn&theme=gruvbox&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Or1onn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Or1onn&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
