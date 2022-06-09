@@ -29,5 +29,5 @@ public:
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Or1onn&theme=onedark_duo)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Or1onn&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Or1onn&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Or1onn&theme=onedark_duo)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Or1onn&theme=onedark_duo)](https://github.com/ryo-ma/github-profile-trophy)
