@@ -17,14 +17,12 @@ public:
  std::string name = "Orhan";
  std::string username = "Or1onn";
 
- std::vector<std::string> languages = 
- {
+ std::vector<std::string> languages = {
      "C", "C++",
      "C#", "Python"
  };
 	
- std::vector<std::string> design = 
- { 
+ std::vector<std::string> design = { 
      "XAML", "HTML", "CSS"
  };
 
