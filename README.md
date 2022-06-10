@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Or1onn" target="_blank">Orhan</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-<!-- <img align='right' src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="411">  -->
+<img align='right' src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width = "100" height="411"> 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
@@ -24,8 +24,6 @@ public:
 	int age = 17;
 };
 ```
-
-<img align='right' src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="411"> 
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Or1onn&theme=onedark_duo)](https://git.io/streak-stats) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Or1onn&theme=gruvbox&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) -->
