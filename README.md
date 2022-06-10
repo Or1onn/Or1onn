@@ -14,14 +14,14 @@ enum class MEANING_OF_LIFE { CODE };
 class Person
 {
 public:
- 	std::string name = "Orhan";
-	std::string username = "Or1onn";
+ std::string name = "Orhan";
+ std::string username = "Or1onn";
 
-	std::vector<std::string> languages = {"C", "C++", "C#", "Python"};
+ std::vector<std::string> languages = {"C", "C++", "C#", "Python"};
 	
-	std::vector<std::string> design = { "XAML", "HTML", "CSS" };
+ std::vector<std::string> design = { "XAML", "HTML", "CSS" };
 
-	int age = 17;
+ int age = 17;
 };
 ```
 
