@@ -5,9 +5,11 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
 ```c#
+using System;
+
 namespace AboutMe
 {
-    struct Person
+    public struct Person
     {
         public string? Name { get; set; }
         public string? Surname { get; set; }
@@ -15,7 +17,7 @@ namespace AboutMe
     }
 
 
-    struct Knowledge
+    public struct Knowledge
     {
         public List<string?> Languages { get; set; }
         public List<string?> DataBase { get; set; }
