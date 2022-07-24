@@ -23,6 +23,11 @@ public:
      "C", "C++", "C#", "Python", "JavaScript"
  };
  
+  std::vector<std::string> DataBase = {
+    "MSSQL", "MYSQL"
+ };
+ 
+ 
   std::vector<std::string> technology = {
      ".NET", "ASP.NET", "WinForms",
      "WPF", "ADO.NET", "EntityFramework"
