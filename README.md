@@ -2,14 +2,12 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <img align='right' src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="450" height="500"> 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
+<!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me: -->
 
 ```c# (c# was chosen because of the colors)
 #include <iostream>
 #include <string>
 #include <vector>
-
-enum class MEANING_OF_LIFE { CODE };
 
 class Person
 {
