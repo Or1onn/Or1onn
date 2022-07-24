@@ -15,18 +15,24 @@ class Person
 {
 public:
  std::string name = "Orhan";
+ std::string name = "Salahetdinov";
+ 
+ int age = 17;
+  
  std::string username = "Or1onn";
 
  std::vector<std::string> languages = {
-     "C", "C++",
-     "C#", "Python"
+     "C", "C++", "C#", "Python", "JavaScript"
+ };
+ 
+  std::vector<std::string> technology = {
+     ".NET", "ASP.NET", "WinForms",
+     "WPF", "ADO.NET", "EntityFramework"
  };
 	
  std::vector<std::string> design = { 
-     "XAML", "HTML", "CSS"
+     "XAML", "HTML", "CSS", "QML"
  };
-
- int age = 17;
 };
 ```
 
