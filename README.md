@@ -4,39 +4,48 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
-```c# (c# was chosen because of the colors)
-#include <iostream>
-#include <string>
-#include <vector>
-
-class Person
+```c#
+namespace AboutMe
 {
-public:
- std::string name = "Orhan";
- std::string name = "Salahetdinov";
- 
- int age = 17;
-  
- std::string username = "Or1onn";
+    struct Person
+    {
+        public string? Name { get; set; }
+        public string? Surname { get; set; }
+        public int Age { get; set; }
+    }
 
- std::vector<std::string> languages = {
-     "C", "C++", "C#", "Python", "JavaScript"
- };
- 
-  std::vector<std::string> DataBase = {
-    "MSSQL", "MYSQL"
- };
- 
- 
-  std::vector<std::string> technology = {
-     ".NET", "ASP.NET", "WinForms",
-     "WPF", "ADO.NET", "EntityFramework"
- };
-	
- std::vector<std::string> design = { 
-     "XAML", "HTML", "CSS", "QML"
- };
-};
+
+    struct Knowledge
+    {
+        public List<string?> Languages { get; set; }
+        public List<string?> DataBase { get; set; }
+        public List<string?> Technology { get; set; }
+        public List<string?> Design { get; set; }
+    }
+
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Person person = new Person();
+            Knowledge knowledge = new Knowledge();
+
+            person.Name = "Orhan";
+            person.Surname = "Salahetdinov";
+
+            person.Age = 17;
+
+            knowledge.Languages = new() { "C", "C++", "C#", "Python", "JavaScript" };
+
+            knowledge.DataBase = new() { "MSSQL", "MYSQL" };
+
+            knowledge.Technology = new() { ".NET", "ASP.NET", "WinForms", "WPF", "ADO.NET", "EntityFramework" };
+
+            knowledge.Design = new() { "XAML", "HTML", "CSS", "QML" };
+        }
+    }
+}
 ```
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Or1onn&theme=onedark_duo)](https://git.io/streak-stats) -->
