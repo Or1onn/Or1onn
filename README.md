@@ -5,7 +5,7 @@
 
 
 ```c#
-using System
+using System;
 
 namespace AboutMe
 {
