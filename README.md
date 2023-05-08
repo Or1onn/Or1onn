@@ -38,13 +38,13 @@ namespace AboutMe
 
             person.Age = 17;
 
-            knowledge.Languages = new() { "C", "C++", "C#", "Python", "JavaScript" };
+            knowledge.Languages = new() { "C", "C++", "C#", "Python", "JavaScript", "TypeScript" };
 
             knowledge.DataBase = new() { "MSSQL", "MYSQL" };
 
-            knowledge.Technology = new() { ".NET", "ASP.NET", "WinForms", "WPF", "ADO.NET", "EntityFramework", "QT" };
+            knowledge.Technology = new() { ".NET", "ASP.NET", "WinForms", "WPF", "ADO.NET", "EntityFramework", "QT", "Azure" };
 
-            knowledge.Design = new() { "XAML", "HTML", "CSS", "QML" };
+            knowledge.Design = new() { "React", "XAML", "HTML", "CSS", "QML"};
         }
     }
 }
