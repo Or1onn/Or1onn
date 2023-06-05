@@ -9,7 +9,7 @@ using System;
 
 namespace AboutMe
 {
-    public struct Person
+    public class Person
     {
         public string? Name { get; set; }
         public string? Surname { get; set; }
@@ -17,7 +17,7 @@ namespace AboutMe
     }
 
 
-    public struct Knowledge
+    public class Knowledge
     {
         public List<string?> Languages { get; set; }
         public List<string?> DataBase { get; set; }
@@ -36,13 +36,13 @@ namespace AboutMe
             person.Name = "Orhan";
             person.Surname = "Salahetdinov";
 
-            person.Age = 17;
+            person.Age = 18;
 
             knowledge.Languages = new() { "C", "C++", "C#", "Python", "JavaScript", "TypeScript" };
 
             knowledge.DataBase = new() { "MSSQL", "MYSQL" };
 
-            knowledge.Technology = new() { ".NET", "ASP.NET", "WinForms", "WPF", "ADO.NET", "EntityFramework", "QT", "Azure" };
+            knowledge.Technology = new() { ".NET", "ASP.NET", "WinForms", "WPF", "ADO.NET", "EntityFramework", "QT", "Azure", "Docker" };
 
             knowledge.Design = new() { "React", "XAML", "HTML", "CSS", "QML"};
         }
