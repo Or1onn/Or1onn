@@ -42,7 +42,7 @@ namespace AboutMe
 
             knowledge.DataBase = new() { "MSSQL", "MYSQL" };
 
-            knowledge.Technology = new() { ".NET", "ASP.NET", "WinForms", "WPF", "ADO.NET", "EntityFramework", "QT", "Azure", "Docker" };
+            knowledge.Technology = new() { ".NET", "ASP.NET", "WinForms", "WPF", "ADO.NET", "EntityFramework", "QT", "Azure", "Docker", "Electron" };
 
             knowledge.Design = new() { "React", "XAML", "HTML", "CSS", "QML"};
         }
