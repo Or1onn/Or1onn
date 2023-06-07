@@ -43,13 +43,13 @@ namespace AboutMe
 
             knowledge.Languages = new() { "C", "C++", "C#", "Python", "JavaScript", "TypeScript" };
 
-            knowledge.DataBase = new() { "MSSQL", "MYSQL", "SQLite };
+            knowledge.DataBase = new() { "MSSQL", "MYSQL", "SQLite" };
 
             knowledge.Technology = new()
              {
               ".NET", "ASP.NET", "WinForms", "WPF", "ADO.NET", "EntityFramework",
               "jQuery", "Expo", "JWT", "NPM", "NodeJS", "Unity", "Redux",
-              "Xamarin", "Yarn", "QT", "CMake", "Electron.js",
+              "Xamarin", "Yarn", "QT", "CMake", "Electron.js"
              };
 
             knowledge.DevOps = new() { "Azure", "Docker", "Kubernetes" };
