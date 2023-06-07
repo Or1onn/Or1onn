@@ -22,7 +22,10 @@ namespace AboutMe
         public List<string?> Languages { get; set; }
         public List<string?> DataBase { get; set; }
         public List<string?> Technology { get; set; }
+        public List<string?> DevOps { get; set; }
+        public List<string?> ML_DL { get; set; }
         public List<string?> Design { get; set; }
+        public List<string?> Others { get; set; }
     }
 
 
@@ -40,11 +43,22 @@ namespace AboutMe
 
             knowledge.Languages = new() { "C", "C++", "C#", "Python", "JavaScript", "TypeScript" };
 
-            knowledge.DataBase = new() { "MSSQL", "MYSQL" };
+            knowledge.DataBase = new() { "MSSQL", "MYSQL", "SQLite };
 
-            knowledge.Technology = new() { ".NET", "ASP.NET", "WinForms", "WPF", "ADO.NET", "EntityFramework", "QT", "Azure", "Docker", "Electron" };
+            knowledge.Technology = new()
+             {
+              ".NET", "ASP.NET", "WinForms", "WPF", "ADO.NET", "EntityFramework",
+              "jQuery", "Expo", "JWT", "NPM", "NodeJS", "Unity", "Redux",
+              "Xamarin", "Yarn", "QT", "CMake", "Electron.js",
+             };
 
-            knowledge.Design = new() { "React", "XAML", "HTML", "CSS", "QML"};
+            knowledge.DevOps = new() { "Azure", "Docker", "Kubernetes" };
+            
+            knowledge.ML_DL = new() { "OpenCV", "TensorFlow" };
+            
+            knowledge.Design = new() { "React", "XAML", "HTML", "CSS", "SASS", QML", "Markdown", "Bootstrap"};
+            
+            knowledge.Others = new() { "Figma", "Canva", "Linux", "Jira", "Notion", "Postman", "Swagger", "Trello", "Slack", "Obsidian" };
         }
     }
 }
@@ -116,6 +130,8 @@ namespace AboutMe
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 # 📊 GitHub Stats:
 
