@@ -56,7 +56,7 @@ namespace AboutMe
             
             knowledge.ML_DL = new() { "OpenCV", "TensorFlow" };
             
-            knowledge.Design = new() { "React", "XAML", "HTML", "CSS", "SASS", QML", "Markdown", "Bootstrap"};
+            knowledge.Design = new() { "React", "XAML", "HTML", "CSS", "SASS", "QML", "Markdown", "Bootstrap"};
             
             knowledge.Others = new() { "Figma", "Canva", "Linux", "Jira", "Notion", "Postman", "Swagger", "Trello", "Slack", "Obsidian" };
         }
