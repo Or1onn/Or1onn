@@ -150,3 +150,9 @@ namespace AboutMe
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Or1onn&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/> 
 </div>
+
+---
+
+<div align="center">
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOr1onn"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOr1onn&countColor=%23263759" /></a>
+</div>
