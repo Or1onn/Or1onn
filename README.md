@@ -154,5 +154,5 @@ namespace AboutMe
 ---
 
 <div align="center">
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOr1onn"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOr1onn&countColor=%23263759" /></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOr1onn"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOr1onn&labelColor=%23555555&countColor=%23F0B354"/></a>
 </div>
