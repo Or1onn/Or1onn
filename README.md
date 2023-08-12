@@ -13,7 +13,6 @@ namespace AboutMe
     {
         public string? Name { get; set; }
         public string? Surname { get; set; }
-        public int Age { get; set; }
     }
 
 
@@ -38,8 +37,6 @@ namespace AboutMe
 
             person.Name = "Orhan";
             person.Surname = "Salahetdinov";
-
-            person.Age = 18;
 
             knowledge.Languages = new() { "C", "C++", "C#", "Python", "JavaScript", "TypeScript" };
 
